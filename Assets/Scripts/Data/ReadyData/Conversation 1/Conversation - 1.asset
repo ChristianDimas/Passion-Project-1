@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58ef8a8f1269778458f413b18f9b6209, type: 3}
+  m_Name: Conversation - 1
+  m_EditorClassIdentifier: 
+  lines:
+  - character: {fileID: 11400000, guid: 87201ef89b8037940b312ff6465eb4bd, type: 2}
+    characterSpriteIndex: 0
+    dialogueText: welp, here is my place. Awesome, right? But don't touch anything,
+      especially the fridge.
+  - character: {fileID: 11400000, guid: 87089a5abf8c9fb48959cb63b9bd68af, type: 2}
+    characterSpriteIndex: 0
+    dialogueText: uhh, okay... why does it smell like wet dog here.
+  - character: {fileID: 11400000, guid: 87201ef89b8037940b312ff6465eb4bd, type: 2}
+    characterSpriteIndex: 0
+    dialogueText: oh, that? we have lots of dogs here, and they're good bois! and
+      girls!
+  - character: {fileID: 11400000, guid: 87089a5abf8c9fb48959cb63b9bd68af, type: 2}
+    characterSpriteIndex: 0
+    dialogueText: ... not good enough to get rid of this stink though...
+  - character: {fileID: 11400000, guid: 87201ef89b8037940b312ff6465eb4bd, type: 2}
+    characterSpriteIndex: 1
+    dialogueText: rude! it's not stinky, it's full of character.
+  - character: {fileID: 11400000, guid: 87089a5abf8c9fb48959cb63b9bd68af, type: 2}
+    characterSpriteIndex: 0
+    dialogueText: huh?! like hell it does-
+  - character: {fileID: 11400000, guid: 87089a5abf8c9fb48959cb63b9bd68af, type: 2}
+    characterSpriteIndex: 1
+    dialogueText: w-wait, who's th-
+  - character: {fileID: 11400000, guid: ae2d906431ddf8e4fa2146a2b8bf255b, type: 2}
+    characterSpriteIndex: 0
+    dialogueText: denji, should i get rid of this loser?
+  - character: {fileID: 11400000, guid: 87089a5abf8c9fb48959cb63b9bd68af, type: 2}
+    characterSpriteIndex: 1
+    dialogueText: huh?! wait!!
+  - character: {fileID: 11400000, guid: 87201ef89b8037940b312ff6465eb4bd, type: 2}
+    characterSpriteIndex: 0
+    dialogueText: it's fine nayuta, she's a friend, although a rude one that is.
+  - character: {fileID: 11400000, guid: ae2d906431ddf8e4fa2146a2b8bf255b, type: 2}
+    characterSpriteIndex: 0
+    dialogueText: ohhh..
+  - character: {fileID: 11400000, guid: ae2d906431ddf8e4fa2146a2b8bf255b, type: 2}
+    characterSpriteIndex: 1
+    dialogueText: okayy..... we ran out of ice creams.
+  - character: {fileID: 11400000, guid: 87201ef89b8037940b312ff6465eb4bd, type: 2}
+    characterSpriteIndex: 1
+    dialogueText: what!?!?!? i just bough two buckets last night!
+  - character: {fileID: 11400000, guid: ae2d906431ddf8e4fa2146a2b8bf255b, type: 2}
+    characterSpriteIndex: 1
+    dialogueText: and they're tasty. I want more!!
+  - character: {fileID: 11400000, guid: 87201ef89b8037940b312ff6465eb4bd, type: 2}
+    characterSpriteIndex: 1
+    dialogueText: hrgggh, okay okay, jeez, as long as you're growing.
+  - character: {fileID: 11400000, guid: 87089a5abf8c9fb48959cb63b9bd68af, type: 2}
+    characterSpriteIndex: 1
+    dialogueText: ...
+  - character: {fileID: 11400000, guid: 87089a5abf8c9fb48959cb63b9bd68af, type: 2}
+    characterSpriteIndex: 1
+    dialogueText: (i shouldn't have agreed to let him take me on a date)

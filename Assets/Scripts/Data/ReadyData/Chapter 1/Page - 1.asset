@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6326fefffadc3b1499f17b061c647d0d, type: 3}
+  m_Name: Page - 1
+  m_EditorClassIdentifier: 
+  pageNumber: 0
+  pageImage: {fileID: 21300000, guid: fe359d2eecb732440bbf0755a7cdccf9, type: 3}
+  shots:
+  - shotPosition: {x: 1.934, y: 1.682}
+    shotScale: {x: 3.350613, y: 7.424905}
+    speechBubbles:
+    - sbPosition: {x: 2.8659, y: 4.11}
+      sbWidthHeight: {x: 1.0967, y: 1.7231}
+      sbFontSize: 0.25
+      sbText: we'll have fun as long as we stick to my plan.
+    - sbPosition: {x: 1.93, y: -0.64}
+      sbWidthHeight: {x: 1.731, y: 1.7231}
+      sbFontSize: 0.3
+      sbText: you don't need to think about a thing.
+  - shotPosition: {x: -1.5327, y: 1.682}
+    shotScale: {x: 3.272559, y: 7.424905}
+    speechBubbles:
+    - sbPosition: {x: -0.47373, y: -0.9}
+      sbWidthHeight: {x: 1.0526, y: 1.0189}
+      sbFontSize: 0.27
+      sbText: i decided ...
+    - sbPosition: {x: -2.166, y: -1.26}
+      sbWidthHeight: {x: 1.5233, y: 1.4746}
+      sbFontSize: 0.27
+      sbText: .. to think about my stuff in my own way, y'know!
+  - shotPosition: {x: 0.2227, y: -3.4688}
+    shotScale: {x: 6.824709, y: 2.221631}
+    speechBubbles:
+    - sbPosition: {x: 1.2124, y: -3.22}
+      sbWidthHeight: {x: 1.2786, y: 1.4746}
+      sbFontSize: 0.23
+      sbText: i'm lookin' for those penguins with or without you!
+    - sbPosition: {x: -0.25, y: -3.54}
+      sbWidthHeight: {x: 1.2786, y: 1.4746}
+      sbFontSize: 0.27
+      sbText: cuz i've never seen penguins before!

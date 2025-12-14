@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 1500660415
+    locked: 0
+  - name: Page
+    uniqueID: 3926191535
+    locked: 0
+  - name: Shot
+    uniqueID: 823831339
+    locked: 0
+  - name: SpeechBubble
+    uniqueID: 1718842697
+    locked: 0
+  - name: Partial Fade
+    uniqueID: 727427319
+    locked: 0
+  - name: Fade Curtain
+    uniqueID: 3156054615
+    locked: 0
+  m_RenderingLayers:
+  - Default

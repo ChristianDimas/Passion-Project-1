@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6326fefffadc3b1499f17b061c647d0d, type: 3}
+  m_Name: Page - 4
+  m_EditorClassIdentifier: 
+  pageImage: {fileID: 21300000, guid: 0662f205ee3147e4f8608ec1302a3757, type: 3}
+  shots:
+  - shotPosition: {x: 1.539, y: 1.7763}
+    shotScale: {x: 3.257476, y: 7.081769}
+    speechBubbles:
+    - sbPosition: {x: 2.397101, y: -0.5}
+      sbWidthHeight: {x: 1.4004, y: 2.2503}
+      sbFontSize: 0.3
+      sbText: you and phoney chainsaw boy are the bores!
+    - sbPosition: {x: 0.89, y: -0.5539}
+      sbWidthHeight: {x: 1.4004, y: 1.9581}
+      sbFontSize: 0.3
+      sbText: i studied up on ocean facts at the library for this!
+  - shotPosition: {x: -1.9621, y: 1.7763}
+    shotScale: {x: 3.401346, y: 7.081769}
+    speechBubbles:
+    - sbPosition: {x: -1.08, y: 4.05}
+      sbWidthHeight: {x: 1.4004, y: 1.9581}
+      sbFontSize: 0.28
+      sbText: all right, fine. i get it. now go after him.
+    - sbPosition: {x: -0.916, y: 1.973}
+      sbWidthHeight: {x: 1.1604, y: 1.9581}
+      sbFontSize: 0.2
+      sbText: my expla-nations would be interest-ing if you could under-stand them!
+    - sbPosition: {x: -2.9, y: 1}
+      sbWidthHeight: {x: 1.1604, y: 1.9581}
+      sbFontSize: 0.23
+      sbText: you just don't get it because you're a devil!
+    - sbPosition: {x: -3.12, y: -0.67}
+      sbWidthHeight: {x: 1.1604, y: 1.9581}
+      sbFontSize: 0.26
+      sbText: i did every-thing right!
+  - shotPosition: {x: -0.2428, y: -3.6591}
+    shotScale: {x: 6.839985, y: 3.349638}
+    speechBubbles:
+    - sbPosition: {x: 0.9, y: -3.47}
+      sbWidthHeight: {x: 1.1604, y: 1.9581}
+      sbFontSize: 0.28
+      sbText: exactly.
+    - sbPosition: {x: 0.9, y: -4.65}
+      sbWidthHeight: {x: 1.1604, y: 1.9581}
+      sbFontSize: 0.28
+      sbText: you aren't wrong, asa.
